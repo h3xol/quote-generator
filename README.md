@@ -1,4 +1,4 @@
-![image](https://github.com/h3xol/quote-generator/assets/53119336/08ad20ff-61a4-401b-baf7-8477e66977c8)# 🗨️Quote Generator Website
+#🗨️Quote Generator Website
 ---
 # Technologies Used:
 
